@@ -23,6 +23,19 @@ You can edit, delete, view, create new companies same thing goes for employees y
 
 ![image](https://user-images.githubusercontent.com/92724870/175019956-91209786-b86d-47c6-a032-aab4b3031115.png)
 
+Companies database:
+
+![image](https://user-images.githubusercontent.com/92724870/175032500-c524fbc5-6e64-48ad-b5b2-0dc195a9c7d2.png)
+
+![image](https://user-images.githubusercontent.com/92724870/175032529-9a1ec1f0-0e1a-49be-a64d-4cc4474a5ebc.png)
+
+Employees database:
+
+![image](https://user-images.githubusercontent.com/92724870/175032600-8d038d6e-3a07-420d-a477-774321ef604e.png)
+
+![image](https://user-images.githubusercontent.com/92724870/175032689-e74db53f-69c5-4b59-92d2-6e66acefe77b.png)
+
+
 
 
 
