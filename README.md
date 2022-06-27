@@ -27,6 +27,8 @@ You can edit, delete, view, create new companies same thing goes for employees y
 
 ![image](https://user-images.githubusercontent.com/92724870/175019956-91209786-b86d-47c6-a032-aab4b3031115.png)
 
+You can also go to admin panel http://127.0.0.1:8000/company/admin
+
 Companies database:
 
 ![image](https://user-images.githubusercontent.com/92724870/175032500-c524fbc5-6e64-48ad-b5b2-0dc195a9c7d2.png)
