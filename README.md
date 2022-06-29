@@ -2,10 +2,10 @@
 Laravel/php crud Application. 
 Crud Application created with laravel(Laravel v8.83.16 (PHP v8.0.19)).
 
-I cannot upload some files to github for some reason. Images in storage are not showing. So before you start this crud application. Upload some new images and edit paths.
+
 Onedrive storage/public/images https://vduedu-my.sharepoint.com/:f:/g/personal/vytautas_bartkevicius_vdu_lt/EhDyAsbMcQlGml95vfMnm7MBsDG2IeXqd1vXRkdfGDBE3Q?e=4G52R8
 
-Full project onedrive https://vduedu-my.sharepoint.com/:f:/g/personal/vytautas_bartkevicius_vdu_lt/ErD455r1bTdCig7-TjY0i3wBqsJDRGqvPWD70S2WS7RsnA?e=4DydZB
+
 
 How to open it.
 You will need xamp and a code editor for example Visual Studio.
